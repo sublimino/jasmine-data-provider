@@ -1,0 +1,6 @@
+{
+  "name": "jasmine-data-provider",
+  "version": "0.2.0",
+  "main": "./lib/jasmine-data-provider.js",
+  "dependencies": {}
+}
