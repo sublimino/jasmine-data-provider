@@ -30,4 +30,3 @@ describe("camel case converter", function() {
     })
   })
 })
-
